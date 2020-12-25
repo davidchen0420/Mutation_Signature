@@ -1,0 +1,15 @@
+##fileformat=VCFv4.1
+##contig=<ID=1,length=29903>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NC_045512.2	hCoV-19/mink/Denmark/AD38-Farm2/2020|EPI_ISL_626340|2020-06-18	hCoV-19/mink/Denmark/AD40-Farm3/2020|EPI_ISL_626341|2020-06-29	hCoV-19/mink/Denmark/AL3-Farm1/2020|EPI_ISL_626342|2020-06-14	hCoV-19/mink/Denmark/AD3-Farm1/2020|EPI_ISL_626343|2020-06-14	hCoV-19/mink/Denmark/AD4-Farm1/2020|EPI_ISL_626344|2020-06-14	hCoV-19/mink/Denmark/AD6-Farm1/2020|EPI_ISL_626345|2020-06-14	hCoV-19/mink/Denmark/AD37-Farm3/2020|EPI_ISL_626346|2020-06-29	hCoV-19/mink/Denmark/AL25-Farm1/2020|EPI_ISL_626347|2020-06-14	hCoV-19/mink/Denmark/AL35-Farm3/2020|EPI_ISL_626348|2020-06-29	hCoV-19/mink/Denmark/AL64-Farm1/2020|EPI_ISL_626349|2020-06-17	hCoV-19/mink/Denmark/KL11-Farm1/2020|EPI_ISL_626350|2020-06-17	hCoV-19/mink/Denmark/KL14-Farm1/2020|EPI_ISL_626351|2020-06-17
+1	241	.	C	T	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	3037	.	C	T	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	5421	.	A	G	.	.	.	GT	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	14408	.	C	T	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	15656	.	C	T	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	22920	.	A	T	.	.	.	GT	0	1	1	0	1	1	1	1	1	1	0	0	0
+1	23403	.	A	G	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	25936	.	C	T	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	28881	.	G	A	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	28882	.	G	A	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1
+1	28883	.	G	C	.	.	.	GT	0	1	1	1	1	1	1	1	1	1	1	1	1

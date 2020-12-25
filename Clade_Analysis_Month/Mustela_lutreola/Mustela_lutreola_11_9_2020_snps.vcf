@@ -1,0 +1,45 @@
+##fileformat=VCFv4.1
+##contig=<ID=1,length=29903>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NC_045512.2	hCoV-19/mink/Netherlands/1/2020|EPI_ISL_431778|2020-04-24	hCoV-19/mink/Netherlands/NB01_01KS/2020|EPI_ISL_447623|2020-04-29	hCoV-19/mink/Netherlands/NB01_02KS/2020|EPI_ISL_447624|2020-04-29	hCoV-19/mink/Netherlands/NB01_03KS/2020|EPI_ISL_447625|2020-04-29	hCoV-19/mink/Netherlands/NB01_04KS/2020|EPI_ISL_447626|2020-04-29	hCoV-19/mink/Netherlands/NB02_03KS/2020|EPI_ISL_447627|2020-04-29	hCoV-19/mink/Netherlands/NB02_06KS/2020|EPI_ISL_447628|2020-04-29	hCoV-19/mink/Netherlands/NB02_07KS/2020|EPI_ISL_447629|2020-04-29	hCoV-19/mink/Netherlands/NB02_13KS/2020|EPI_ISL_447630|2020-04-29	hCoV-19/mink/Netherlands/NB02_index/2020|EPI_ISL_447631|2020-04-25	hCoV-19/mink/Netherlands/NB02_16RS/2020|EPI_ISL_447632|2020-04-28	hCoV-19/mink/Netherlands/NB03_index/2020|EPI_ISL_447633|2020-05-06	hCoV-19/mink/Netherlands/NB04_index/2020|EPI_ISL_447634|2020-05-06
+1	241	.	C	T	.	.	.	GT	0	1	1	1	1	1	0	0	0	0	0	0	1	1
+1	245	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1	514	.	T	C	.	.	.	GT	0	0	0	0	0	0	1	1	1	1	1	1	0	0
+1	1380	.	C	T	.	.	.	GT	0	1	1	1	1	1	0	0	0	0	0	0	1	1
+1	1478	.	G	A	.	.	.	GT	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+1	2221	.	C	T	.	.	.	GT	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	3037	.	C	T	.	.	.	GT	0	1	1	1	1	1	0	0	0	0	0	0	1	1
+1	3251	.	G	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1	3552	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1	4967	.	A	G	.	.	.	GT	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	5239	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1	6134	.	G	A	.	.	.	GT	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	6267	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1	6352	.	G	A	.	.	.	GT	0	0	0	0	0	0	1	1	0	0	1	1	0	0
+1	6894	.	G	T	.	.	.	GT	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1	10829	.	A	G	.	.	.	GT	0	0	0	0	0	0	1	1	0	1	1	1	0	0
+1	12795	.	G	A	.	.	.	GT	0	1	0	1	0	1	1	1	1	1	1	1	0	0
+1	13005	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1	13438	.	T	C	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1	14274	.	G	A	.	.	.	GT	0	1	1	1	1	1	0	0	0	0	0	0	1	1
+1	14408	.	C	T	.	.	.	GT	0	1	1	1	1	1	0	0	0	0	0	0	1	1
+1	17410	.	C	T	.	.	.	GT	0	0	0	0	0	0	1	1	1	1	1	1	0	0
+1	18131	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1	18654	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1	22344	.	G	A	.	.	.	GT	0	0	0	0	0	0	1	1	0	0	1	1	0	0
+1	22661	.	G	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1	22920	.	A	T	.	.	.	GT	0	0	0	0	0	0	1	1	0	1	1	1	0	0
+1	23018	.	T	C	.	.	.	GT	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	23064	.	A	C	.	.	.	GT	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	23403	.	A	G	.	.	.	GT	0	1	1	1	1	1	0	0	0	0	0	0	1	1
+1	23822	.	T	C	.	.	.	GT	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	24862	.	A	G	.	.	.	GT	0	1	1	1	1	1	0	0	0	0	0	0	1	1
+1	25492	.	A	G	.	.	.	GT	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	25518	.	T	C	.	.	.	GT	0	0	0	0	0	0	1	1	0	0	1	1	0	0
+1	25936	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1	26013	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1	26047	.	T	G	.	.	.	GT	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+1	26078	.	C	T	.	.	.	GT	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1	26735	.	C	T	.	.	.	GT	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1	28450	.	T	C	.	.	.	GT	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	29685	.	T	C	.	.	.	GT	0	0	0	0	0	0	1	1	0	0	1	1	0	0
